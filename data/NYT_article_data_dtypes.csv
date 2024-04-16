@@ -1,0 +1,9 @@
+index,0
+web_url,string
+headline,string
+snippet,object
+word_count,Int64
+source,object
+type_of_material,string
+date,object
+id,int64
