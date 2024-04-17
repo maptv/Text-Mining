@@ -1,0 +1,5 @@
+pyLDAvis
+gensim
+scipy==1.12
+wordcloud
+nltk
